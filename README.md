@@ -1,6 +1,7 @@
 # MyVisualBasicProjects
 Here are the Windows applications I developed while in Xth standard. These were not something from my Syllabus. I just created them own my own, for fun.\
-We were taught just basics of VB in class. During following Summer Vacations, I decided to learn more online and practice. And here are the results!
+We were taught just basics of VB in class. During following Summer Vacations, I decided to learn more online and practice. And here are the results!\
+You can try these applications by downloading executables from [here](https://github.com/lswarnkar1/MyVisualBasicProjects/tree/master/%23Executables).
 ## 1. BMI Calculator
 This application asks user for Weight & Height and shows the calculated BMI.
 ![BMI Calculator 1](%23Screenshots/BMI1.PNG?raw=true "BMI Calculator 1")
