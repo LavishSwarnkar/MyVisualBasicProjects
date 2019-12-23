@@ -1,0 +1,33 @@
+C:\Users\admin\Desktop\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\admin\Desktop\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\admin\Desktop\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.xml
+C:\Users\admin\Desktop\BMI Calculator\BMI Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\BMI Calculator\BMI Calculator\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Desktop\BMI Calculator\BMI Calculator\obj\Debug\WindowsApplication1.B.resources
+C:\Users\admin\Desktop\BMI Calculator\BMI Calculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\admin\Desktop\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.xml
+C:\Users\admin\Desktop\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+C:\Users\admin\Desktop\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\admin\Desktop\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.xml
+C:\Users\admin\Desktop\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+C:\Users\admin\Desktop\Applications made by Lavish\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\admin\Desktop\Applications made by Lavish\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\admin\Desktop\Applications made by Lavish\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.xml
+C:\Users\admin\Desktop\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Desktop\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\WindowsApplication1.B.resources
+C:\Users\admin\Desktop\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbproj.GenerateResource.Cache
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.xml
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.xml
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\ResolveAssemblyReference.cache
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\WindowsApplication1.Form1.resources
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\WindowsApplication1.B.resources
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\WindowsApplication1.Resources.resources
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbproj.GenerateResource.Cache

@@ -1,0 +1,24 @@
+C:\Users\admin\Desktop\pp\pp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\pp\pp\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Desktop\pp\pp\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\admin\Desktop\pp\pp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\pp\pp\obj\Debug\pp.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\pp\pp\bin\Debug\pp.exe
+C:\Users\admin\Desktop\pp\pp\bin\Debug\pp.pdb
+C:\Users\admin\Desktop\pp\pp\bin\Debug\pp.xml
+C:\Users\admin\Desktop\pp\pp\obj\Debug\pp.exe
+C:\Users\admin\Desktop\pp\pp\obj\Debug\pp.xml
+C:\Users\admin\Desktop\pp\pp\obj\Debug\pp.pdb
+C:\Users\admin\Desktop\pp\pp\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\admin\Desktop\Applications made by Lavish\Votter ID Maker\pp\obj\Debug\pp.exe
+C:\Users\admin\Desktop\Applications made by Lavish\Votter ID Maker\pp\obj\Debug\pp.xml
+C:\Users\admin\Desktop\Applications made by Lavish\Votter ID Maker\pp\obj\Debug\pp.pdb
+C:\Users\admin\Desktop\Applications made by Lavish\Votter ID Maker\pp\bin\Debug\pp.exe
+C:\Users\admin\Desktop\Applications made by Lavish\Votter ID Maker\pp\bin\Debug\pp.pdb
+C:\Users\admin\Desktop\Applications made by Lavish\Votter ID Maker\pp\bin\Debug\pp.xml
+C:\Users\admin\Desktop\Applications made by Lavish\Votter ID Maker\pp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Applications made by Lavish\Votter ID Maker\pp\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Desktop\Applications made by Lavish\Votter ID Maker\pp\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\admin\Desktop\Applications made by Lavish\Votter ID Maker\pp\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\admin\Desktop\Applications made by Lavish\Votter ID Maker\pp\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\Applications made by Lavish\Votter ID Maker\pp\obj\Debug\pp.vbproj.GenerateResource.Cache

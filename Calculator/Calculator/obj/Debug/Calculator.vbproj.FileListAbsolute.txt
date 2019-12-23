@@ -1,0 +1,23 @@
+C:\Users\admin\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\admin\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\admin\Desktop\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\admin\Desktop\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Calculator\Calculator\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Desktop\Calculator\Calculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\admin\Desktop\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\admin\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\admin\Desktop\Applications made by Lavish\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\admin\Desktop\Applications made by Lavish\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\admin\Desktop\Applications made by Lavish\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\admin\Desktop\Applications made by Lavish\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\admin\Desktop\Applications made by Lavish\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\admin\Desktop\Applications made by Lavish\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\admin\Desktop\Applications made by Lavish\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Applications made by Lavish\Calculator\Calculator\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Desktop\Applications made by Lavish\Calculator\Calculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\Applications made by Lavish\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\Calculator\Calculator\obj\Debug\Calculator.xml
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\Calculator\Calculator\obj\Debug\Calculator.pdb

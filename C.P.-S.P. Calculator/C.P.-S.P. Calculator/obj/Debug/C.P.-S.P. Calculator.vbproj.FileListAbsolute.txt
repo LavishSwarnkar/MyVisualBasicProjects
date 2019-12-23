@@ -1,0 +1,20 @@
+C:\Users\admin\Desktop\C.P.-S.P. Calculator\C.P.-S.P. Calculator\bin\Debug\C.P.-S.P. Calculator.exe
+C:\Users\admin\Desktop\C.P.-S.P. Calculator\C.P.-S.P. Calculator\bin\Debug\C.P.-S.P. Calculator.pdb
+C:\Users\admin\Desktop\C.P.-S.P. Calculator\C.P.-S.P. Calculator\bin\Debug\C.P.-S.P. Calculator.xml
+C:\Users\admin\Desktop\C.P.-S.P. Calculator\C.P.-S.P. Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\C.P.-S.P. Calculator\C.P.-S.P. Calculator\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Desktop\C.P.-S.P. Calculator\C.P.-S.P. Calculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\C.P.-S.P. Calculator\C.P.-S.P. Calculator\obj\Debug\C.P.-S.P. Calculator.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\C.P.-S.P. Calculator\C.P.-S.P. Calculator\obj\Debug\C.P.-S.P. Calculator.exe
+C:\Users\admin\Desktop\C.P.-S.P. Calculator\C.P.-S.P. Calculator\obj\Debug\C.P.-S.P. Calculator.xml
+C:\Users\admin\Desktop\C.P.-S.P. Calculator\C.P.-S.P. Calculator\obj\Debug\C.P.-S.P. Calculator.pdb
+C:\Users\admin\Desktop\Applications made by Lavish\C.P.-S.P. Calculator\C.P.-S.P. Calculator\obj\Debug\C.P.-S.P. Calculator.exe
+C:\Users\admin\Desktop\Applications made by Lavish\C.P.-S.P. Calculator\C.P.-S.P. Calculator\obj\Debug\C.P.-S.P. Calculator.xml
+C:\Users\admin\Desktop\Applications made by Lavish\C.P.-S.P. Calculator\C.P.-S.P. Calculator\obj\Debug\C.P.-S.P. Calculator.pdb
+C:\Users\admin\Desktop\Applications made by Lavish\C.P.-S.P. Calculator\C.P.-S.P. Calculator\bin\Debug\C.P.-S.P. Calculator.exe
+C:\Users\admin\Desktop\Applications made by Lavish\C.P.-S.P. Calculator\C.P.-S.P. Calculator\bin\Debug\C.P.-S.P. Calculator.pdb
+C:\Users\admin\Desktop\Applications made by Lavish\C.P.-S.P. Calculator\C.P.-S.P. Calculator\bin\Debug\C.P.-S.P. Calculator.xml
+C:\Users\admin\Desktop\Applications made by Lavish\C.P.-S.P. Calculator\C.P.-S.P. Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Applications made by Lavish\C.P.-S.P. Calculator\C.P.-S.P. Calculator\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Desktop\Applications made by Lavish\C.P.-S.P. Calculator\C.P.-S.P. Calculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\Applications made by Lavish\C.P.-S.P. Calculator\C.P.-S.P. Calculator\obj\Debug\C.P.-S.P. Calculator.vbproj.GenerateResource.Cache

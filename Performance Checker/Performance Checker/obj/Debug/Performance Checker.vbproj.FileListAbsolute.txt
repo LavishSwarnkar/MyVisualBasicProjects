@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Applications made by Lavish\Performance Checker\Performance Checker\bin\Debug\Performance Checker.exe
+C:\Users\admin\Desktop\Applications made by Lavish\Performance Checker\Performance Checker\bin\Debug\Performance Checker.pdb
+C:\Users\admin\Desktop\Applications made by Lavish\Performance Checker\Performance Checker\bin\Debug\Performance Checker.xml
+C:\Users\admin\Desktop\Applications made by Lavish\Performance Checker\Performance Checker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Applications made by Lavish\Performance Checker\Performance Checker\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\admin\Desktop\Applications made by Lavish\Performance Checker\Performance Checker\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Desktop\Applications made by Lavish\Performance Checker\Performance Checker\obj\Debug\Performance Checker.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Applications made by Lavish\Performance Checker\Performance Checker\obj\Debug\Performance Checker.exe
+C:\Users\admin\Desktop\Applications made by Lavish\Performance Checker\Performance Checker\obj\Debug\Performance Checker.xml
+C:\Users\admin\Desktop\Applications made by Lavish\Performance Checker\Performance Checker\obj\Debug\Performance Checker.pdb

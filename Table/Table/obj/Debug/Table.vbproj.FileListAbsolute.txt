@@ -1,0 +1,10 @@
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\Table\Table\bin\Debug\Table.exe
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\Table\Table\bin\Debug\Table.pdb
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\Table\Table\bin\Debug\Table.xml
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\Table\Table\obj\Debug\ResolveAssemblyReference.cache
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\Table\Table\obj\Debug\WindowsApplication1.Form1.resources
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\Table\Table\obj\Debug\WindowsApplication1.Resources.resources
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\Table\Table\obj\Debug\Table.vbproj.GenerateResource.Cache
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\Table\Table\obj\Debug\Table.exe
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\Table\Table\obj\Debug\Table.xml
+F:\Lavish's Stuff PLZ DON'T DELETE\Other collection\Apps\Computer\Applications made by Lavish\Table\Table\obj\Debug\Table.pdb
